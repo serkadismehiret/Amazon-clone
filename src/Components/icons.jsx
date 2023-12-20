@@ -1,0 +1,8 @@
+// test secret key
+
+// sk_test_51OMg3bCMjNN6OoME3Our4lXNfSBg8JJCtiBpj8WRpQgddpiPyvZQnQlvHeBlSMLuSeFFgUg2WjrywuIO5GlLPTeI00Qda0BFdY
+
+
+// puplish key
+
+// pk_test_51OMg3bCMjNN6OoMElEquPErN0kFsiSTEGT3BUNsJBz4EeRHQFL5TeWCWw0juNQ0YlN3NzqBj7yfQturGHLAT3Mku008JPQJbZ4
